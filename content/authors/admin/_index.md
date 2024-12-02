@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Justice Kwame Appait
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Dr. Justice
+last_name: Kwame  Appati
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Lead at DISAL Laboratory and Senior Lecturer
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: University of Ghana
+    url: 'https://www.ug.edu.gh/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

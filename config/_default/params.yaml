@@ -45,9 +45,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2024 Data Intelligence and Swarm Analytics Laboratory. All rights reserved.'
     license:
-      enable: true
+      # enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -96,7 +96,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: true
   map:
     provider: 'mapnik'
     api_key: ''

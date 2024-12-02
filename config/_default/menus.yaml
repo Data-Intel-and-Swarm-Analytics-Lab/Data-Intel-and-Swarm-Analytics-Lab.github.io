@@ -4,6 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  # - name: Welcome to DISAL
+  #   url: News
+  #   weight: 1
   - name: Tour
     url: tour
     weight: 10
